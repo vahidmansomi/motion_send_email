@@ -1,6 +1,8 @@
 # Sending emails in raspbry pi with Motion
 # vahid.mansomi
 
+#!/user/bin/perl  
+
 import smtplib
 from datetime import datetime
 from email.MIMEMultipart import MIMEMultipart
